@@ -1,0 +1,19 @@
+.team-heading {
+    background-color: #293462;
+    color: #fafafa;
+}
+#manager {
+   background-color: #00818a;
+   color: #fafafa; 
+}
+#engineer {
+    background-color: #ec9b3b;
+    color: #fafafa;
+ }
+ #intern {
+    background-color: #ecb820;
+    color: #fafafa;
+ }
+ .employee-card {
+     margin-bottom: 2rem;
+ }
