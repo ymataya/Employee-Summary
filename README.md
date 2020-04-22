@@ -16,9 +16,9 @@ The person in-charge of creating this employee summary would be the one answerin
 ## Test:
 Below is a preview of the test that was run:
 
-![Test](./Assets/test.png)
+![Test](./assets/test.png)
 
 ## Project Preview:
 The website looks like the image below:
 
-![Preview](./Assets/preview.png)
+![Preview](./assets/preview.png)
